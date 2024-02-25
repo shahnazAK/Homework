@@ -1,10 +1,10 @@
 package hw2JavaVariablesInitialized;
 
 public class AboutMe {
-
+	//
 	public String myCity;// Variable Declared
 
-//Now initializing string,INT,float,char and boolean type variables to define myself
+//Now initializing string,INT,float,Fchar and boolean type variables to define myself
 	public String myName = "Shahnaz";
 	public int myAge = 95;
 	public float myHeight = 5.42339f;
