@@ -1,7 +1,7 @@
 package hw2JavaVariablesInitialized;
 
 public class AboutMe {
-	//
+	//Test
 	public String myCity;// Variable Declared
 
 //Now initializing string,INT,float,Fchar and boolean type variables to define myself
